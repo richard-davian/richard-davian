@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=richard-davian&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-davian&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=richard-davian&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=richard-davian&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richard-davian&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=richard-davian&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
