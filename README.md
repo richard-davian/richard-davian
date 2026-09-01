@@ -57,14 +57,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=richard-davian&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=richard-davian&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
