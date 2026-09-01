@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Richard Davian</h1>
+<h3 align="center">Fullstack Developer — Web, Mobile & Desktop 🚀</h3>
 
-<!--
-**jumpbe/jumpbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Web+Apps+%F0%9F%8C%90;Crafting+Mobile+Experiences+%F0%9F%93%B1;Shipping+Desktop+Software+%F0%9F%92%BB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=fff&animation=fadeIn" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 Currently building **fullstack applications** across web, mobile, and desktop platforms
+- 🌱 Always exploring new frameworks and tools to level up my craft
+- ⚡ I enjoy turning ideas into working products end-to-end
+- 🎯 Passionate about clean architecture, performance, and great UX
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <b>Web</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,express" />
+</p>
+
+<p align="center">
+  <b>Mobile</b><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,react" />
+</p>
+
+<p align="center">
+  <b>Desktop</b><br>
+  <img src="https://skillicons.dev/icons?i=electron,cs,dotnet,cpp,java" />
+</p>
+
+<p align="center">
+  <b>Database & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,vscode,figma,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=richard-davian&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-davian&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richard-davian&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richard-davian&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/richard-davian/count.svg" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</p>
