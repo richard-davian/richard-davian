@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/richard-davian/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=richard-davian&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
