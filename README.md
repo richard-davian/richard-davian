@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer — Web, Mobile & Desktop 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Web+Apps+%F0%9F%8C%90;Crafting+Mobile+Experiences+%F0%9F%93%B1;Shipping+Desktop+Software+%F0%9F%92%BB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Web+Apps+%F0%9F%8C%90;Crafting+Mobile+Experiences+%F0%9F%93%B1;Shipping+Desktop+Software+%F0%9F%92%BB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richard-davian&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=richard-davian&theme=radical&hide_border=true" />
 </p>
 
 ---
